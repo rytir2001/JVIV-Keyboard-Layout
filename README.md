@@ -11,7 +11,7 @@ Při přidržění klávesy shift je také **možné všechna diakritická písm
 ## Jak Naistalovat
 Stáhněte si složku jviv a rozjeďte setup.exe (**Jedná se o oficiální Microsoft installer**)
 
-#FAQ
+# FAQ
 
 ## Jak je to s Ě a É
 Protože E je jediné písmenko v české abecedě které může mít jak čárku tak háček, rozhodl jsem se že `é` se bude psát přidržením AltGr a zmáčknutím klávesy `w`
