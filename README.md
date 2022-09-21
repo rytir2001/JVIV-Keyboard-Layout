@@ -18,3 +18,6 @@ Protože E je jediné písmenko v české abecedě které může mít jak čárk
 
 ## Psaní Všemi 10
 ideální způsob jak tuto klávesnici používat je mít palec pravé ruky na AltGr a ovládat pomocí něj kdy bude použita diakritika.
+
+## Funguje klávesnice na MACu nebo Linuxu?
+Pravděpodobně ne. Pokud o to bude zájem tak se do toho pustím
