@@ -8,8 +8,12 @@ Navíc také můžete přidržet AltGr (pravý alt) a použít klávesu, která 
 
 Při přidržění klávesy shift je také **možné všechna diakritická písmenka psát velkým** písmem.
 
+Nikdy už nebudete muset řešit přepínání mezi klávesnicovými layouty.
+
 ## Jak Naistalovat
 Stáhněte si složku jviv a rozjeďte setup.exe (**Jedná se o oficiální Microsoft installer**)
+Proklikejte se instalací (cca dvě kliknutí)
+Po dokončení instalace **restartujte počítač**
 
 # FAQ
 
